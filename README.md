@@ -16,7 +16,8 @@ An Android app to view a list of superheroes and explore their detailed profiles
 
 ## App Gif
 
-![superhero-gif](https://github.com/user-attachments/assets/d53415ca-2ad9-4e8e-a942-138f47daf6a4)
+![ezgif com-crop-video](https://github.com/user-attachments/assets/ecff5b3f-370f-4445-b981-3a19ff1b80b8)
+
 
 
 
