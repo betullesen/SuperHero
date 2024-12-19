@@ -3,10 +3,12 @@ An Android app to view a list of superheroes and explore their detailed profiles
 
 ## Features
 - **List View:** Displays a list of superhero names.
+ 
 - **Profile Details:** Shows each superhero’s name, age, description, strengths, weaknesses, and image.
 
 ## Libraries and Tools Used:
 - **Android SDK:** The platform for building Android applications.
+  
 - **RecyclerView:** Used to display the list of superheroes.
 - **Intent:** Used for passing data between activities.
 - **Serializable:** Allows SuperHero objects to be passed with Intent.
